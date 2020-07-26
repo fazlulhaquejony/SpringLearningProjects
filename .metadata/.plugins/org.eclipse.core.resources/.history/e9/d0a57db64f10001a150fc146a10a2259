@@ -1,0 +1,23 @@
+package fazluljaony;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class SchoolAdmin {
+
+	public static void main(String[] args) {
+		
+	AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext("JavaConfig.class");
+		
+		
+		Teacher newteacher = context.getBean("myteacher",Teacher.class);
+		
+		System.out.println(newteacher.getTeacherName());
+		System.out.println(newteacher.getTeacherPhoneNo());
+		System.out.println(newteacher.getStudentName());
+		System.out.println(newteacher.getStudentAttnd());
+		
+		context.close();
+
+	}
+
+}

@@ -1,0 +1,12 @@
+#Tomcat publish data
+#Sat Jul 18 11:50:18 BDT 2020
+org.eclipse.jst.jee.server\:/binary\:F\:\\JavaEE\ Project\\EmailApp\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\fazlu\\.m2\\repository\\org\\springframework\\spring-web\\5.2.5.RELEASE\\spring-web-5.2.5.RELEASE.jar=WEB-INF/lib/spring-web-5.2.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\JavaEE\ Project\\Web-CustomerTracker\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\JavaEE\ Project\\EmailApp\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\JavaEE\ Project\\Web-CustomerTracker-aop\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\JavaEE\ Project\\MobileShop\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\JavaEE\ Project\\Web-CustomerTracker-aop\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\fazlu\\.m2\\repository\\org\\springframework\\spring-web\\5.2.6.RELEASE\\spring-web-5.2.6.RELEASE.jar=WEB-INF/lib/spring-web-5.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\JavaEE\ Project\\Web-CustomerTracker\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:F\:\\JavaEE\ Project\\MobileShop\\WebContent\\WEB-INF\\lib\\spring-web-5.2.0.RELEASE.jar=WEB-INF/lib/spring-web-5.2.0.RELEASE.jar

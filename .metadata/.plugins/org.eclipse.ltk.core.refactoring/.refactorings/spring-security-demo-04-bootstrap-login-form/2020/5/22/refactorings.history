@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-security-demo-04-bootstrap-login-form/src/main/webapp/WEB-INF/view/fancy-login.html&apos; to &apos;fancy-login.jsp&apos;" description="Rename resource &apos;fancy-login.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/view/fancy-login.html" name="fancy-login.jsp" stamp="1590391908640" updateReferences="true"/>
+</session>

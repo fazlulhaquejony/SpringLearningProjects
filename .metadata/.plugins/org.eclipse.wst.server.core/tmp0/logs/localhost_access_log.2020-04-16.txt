@@ -1,0 +1,15 @@
+127.0.0.1 - - [16/Apr/2020:08:09:53 +0600] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [16/Apr/2020:08:09:55 +0600] "GET /Web-CustomerTracker/ HTTP/1.1" 404 1047
+127.0.0.1 - - [16/Apr/2020:08:10:06 +0600] "GET /Web-CustomerTracker/list HTTP/1.1" 404 1047
+127.0.0.1 - - [16/Apr/2020:08:10:18 +0600] "GET /Web-CustomerTracker/customer/list HTTP/1.1" 404 1047
+127.0.0.1 - - [16/Apr/2020:08:12:27 +0600] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [16/Apr/2020:08:12:28 +0600] "GET /Web-CustomerTracker/ HTTP/1.1" 404 1047
+127.0.0.1 - - [16/Apr/2020:08:12:52 +0600] "GET /Web-CustomerTracker/customer/list HTTP/1.1" 404 1047
+127.0.0.1 - - [16/Apr/2020:08:13:03 +0600] "GET /Web-CustomerTracker/customer HTTP/1.1" 404 1047
+127.0.0.1 - - [16/Apr/2020:08:14:01 +0600] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [16/Apr/2020:08:14:01 +0600] "GET /Web-CustomerTracker/ HTTP/1.1" 404 1047
+127.0.0.1 - - [16/Apr/2020:08:14:10 +0600] "GET /Web-CustomerTracker/customer/list HTTP/1.1" 200 128
+127.0.0.1 - - [16/Apr/2020:09:04:30 +0600] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [16/Apr/2020:09:04:31 +0600] "GET /Web-CustomerTracker/ HTTP/1.1" 404 1047
+127.0.0.1 - - [16/Apr/2020:09:04:48 +0600] "GET /Web-CustomerTracker/customer/list HTTP/1.1" 200 128
+127.0.0.1 - - [16/Apr/2020:09:05:01 +0600] "GET /Web-CustomerTracker/customer/list HTTP/1.1" 200 128

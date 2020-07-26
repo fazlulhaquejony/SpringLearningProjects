@@ -1,0 +1,15 @@
+127.0.0.1 - - [23/May/2020:12:19:53 +0600] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/May/2020:12:19:57 +0600] "GET /spring-security-demo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/May/2020:12:19:57 +0600] "GET /spring-security-demo/login HTTP/1.1" 200 556
+0:0:0:0:0:0:0:1 - - [23/May/2020:12:20:26 +0600] "POST /spring-security-demo/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/May/2020:12:20:27 +0600] "GET /spring-security-demo/ HTTP/1.1" 200 212
+127.0.0.1 - - [23/May/2020:15:00:33 +0600] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [23/May/2020:15:00:34 +0600] "GET /spring-security-demo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/May/2020:15:00:34 +0600] "GET /spring-security-demo/login HTTP/1.1" 200 556
+0:0:0:0:0:0:0:1 - - [23/May/2020:15:05:27 +0600] "GET /spring-security-demo/login HTTP/1.1" 200 556
+0:0:0:0:0:0:0:1 - - [23/May/2020:15:05:50 +0600] "POST /spring-security-demo/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/May/2020:15:05:52 +0600] "GET /spring-security-demo/ HTTP/1.1" 200 218
+0:0:0:0:0:0:0:1 - - [23/May/2020:15:06:21 +0600] "GET /spring-security-demo/ HTTP/1.1" 200 217
+0:0:0:0:0:0:0:1 - - [23/May/2020:15:06:37 +0600] "GET /spring-security-demo/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/May/2020:15:06:37 +0600] "GET /spring-security-demo/login HTTP/1.1" 200 556
+0:0:0:0:0:0:0:1 - - [23/May/2020:15:06:38 +0600] "GET /favicon.ico HTTP/1.1" 404 1085

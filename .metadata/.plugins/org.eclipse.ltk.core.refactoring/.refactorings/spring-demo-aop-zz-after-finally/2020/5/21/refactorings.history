@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AfterThrowingMainApp.java&apos; to &apos;spring-demo-aop-zz-after-finally/src/fazluljony.aop&apos;&#x0D;&#x0A;- Original project: &apos;spring-demo-aop-zz-after-finally&apos;&#x0D;&#x0A;- Destination element: &apos;spring-demo-aop-zz-after-finally/src/fazluljony.aop&apos;&#x0D;&#x0A;- Original element: &apos;fazluljony.aop.AfterThrowingMainApp.java&apos;" description="Copy compilation unit" destination="/src&lt;fazluljony.aop" element1="/src&lt;fazluljony.aop{AfterThrowingMainApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1589866139721" units="1" version="1.0"/>
+</session>

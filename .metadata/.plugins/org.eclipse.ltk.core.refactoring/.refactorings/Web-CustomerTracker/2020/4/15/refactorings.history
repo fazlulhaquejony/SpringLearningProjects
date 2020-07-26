@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Web-CustomerTracker&apos;&#x0D;&#x0A;- Original project: &apos;Web-CustomerTracker&apos;&#x0D;&#x0A;- Original element: &apos;mysql-connector-java-5.1.48-bin.jar&apos;" description="Delete element" element1="WebContent/WEB-INF/lib/mysql-connector-java-5.1.48-bin.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1586621984352" subPackages="false" version="1.0"/>
+</session>
