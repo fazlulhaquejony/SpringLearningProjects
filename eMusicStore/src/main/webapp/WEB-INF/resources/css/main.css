@@ -1,0 +1,26 @@
+.container-wrapper {
+    height: 80%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 300px;
+}
+.home-image {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+}
+.table {
+    table-layout: fixed;
+    overflow: auto;
+}
+.table th {
+    text-align: center;
+}
+.table td {
+    text-align: center;
+    background: #c0c0c0;
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

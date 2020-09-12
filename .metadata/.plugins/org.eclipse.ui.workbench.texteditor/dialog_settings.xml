@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="myLogger.info"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="container-wrapper"/>
 			<item value="System.out.println"/>
 		</list>
 		<list key="replacehistory">
